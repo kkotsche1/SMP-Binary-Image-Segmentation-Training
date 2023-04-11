@@ -4,9 +4,9 @@ A google colab notebook to train any model available in the segmentation-models-
 
 ## This is how you should be formatting the file structure ##
 
-Code is included to augment the images by adding this such as rotation etc. which are then saved in the Train_Augment folder
+Code is included to augment the images by adding this such as rotation etc. which are then saved in the Train_Augment folder</br>
 
-Images should be in .jpg format
+Images should be in .jpg format</br>
 </br>
 /content/Train</br>
 /content/Train/Images</br>
