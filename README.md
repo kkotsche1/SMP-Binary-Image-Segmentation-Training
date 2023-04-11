@@ -7,15 +7,15 @@ A google colab notebook to train any model available in the segmentation-models-
 Code is included to augment the images by adding this such as rotation etc. which are then saved in the Train_Augment folder
 
 Images should be in .jpg format
-
-/content/Train
-/content/Train/Images
-/content/Train/Masks
-
-/content/Train_Augment
-/content/Train_Augment/Images
-/content/Train_Augment/Masks
-
-/content/Test
-/content/Test/Images
-/content/Test/Masks
+</br>
+/content/Train</br>
+/content/Train/Images</br>
+/content/Train/Masks</br>
+</br>
+/content/Train_Augment</br>
+/content/Train_Augment/Images</br>
+/content/Train_Augment/Masks</br>
+</br>
+/content/Test</br>
+/content/Test/Images</br>
+/content/Test/Masks</br>
